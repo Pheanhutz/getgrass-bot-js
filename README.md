@@ -27,9 +27,7 @@
 
 - if you don't have a grass account yet, SignUp Here [getgrass.io](https://app.getgrass.io/register/?referralCode=276JtwamaXly4nM)
 
-## 🤔 How To Do
-
-- Check [Release Page](https://github.com/cmalf/getgrass-bot-js/releases) (To downloads The latest version of the bot script ) Or
+## 🤔 Start here:
 
 - Clone This Repo
 

@@ -34,7 +34,7 @@
 - Clone This Repo
 
   - ```bash
-    git clone https://github.com/cmalf/getgrass-bot-js.git
+    git clone https://github.com/Pheanhutz/getgrass-bot-js.git
     ```
 - Go To Folder
   - ```bash

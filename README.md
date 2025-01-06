@@ -54,7 +54,10 @@
 
 ## ⚙️ Configuration
 
-SetUp on `Config.js`
+SetUp on 
+```bash
+nano Config.js
+```
 
 - Get UserId
 
@@ -62,10 +65,14 @@ SetUp on `Config.js`
   - Go to Dashboard
   - Right Click Open New Tab [get-UserId](https://api.getgrass.io/retrieveUser)
 
-  - Edit Proxy.txt
 
+  - Edit Proxy.txt
+```bash
+nano Proxy.txt
+```
   - format proxies is: `socks://username:pass@ip:port` Or `http://username:pass@ip:port`
   - Note: `The proxy format depends on the bot version you are using`.
+
 
 ## 📸 ScreenShoot
 

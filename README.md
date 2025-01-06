@@ -54,7 +54,7 @@
 
 ## ⚙️ Configuration
 
-SetUp on 
+SetUp on Config.js
 ```bash
 nano Config.js
 ```

@@ -25,7 +25,7 @@
 
 ## 🔓 Register  
 
-- if you don't have a grass account yet, SignUp Here [getgrass.io](https://app.getgrass.io/register/?referralCode=276JtwamaXly4nM)
+- if you don't have a grass account yet, SignUp Here [getgrass.io](https://app.getgrass.io/register/?referralCode=rgpRQCoR7JHbuDI)
 
 ## 🤔 Start here:
 
